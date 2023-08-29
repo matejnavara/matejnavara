@@ -7,7 +7,7 @@ Full-stack Engineer & Technology Consultant
 Location independent developer assisting those in need of tech solutions by day and working on weird/wonderful projects by night. 🌜
 
 *   🌍  I'm always nearby. Remote working since 2017. Currently in Bali, Indonesia 🇮🇩
-*   🧠  I'm forever learning. Currently: Web3 / AR / VR
+*   🧠  I'm forever learning. Currently: AI / Automation
 *   🤝  I'm open to collaborating on sustainability, positive impact and creative projects. Get in Touch!
 *   ✉️  You can contact me at [matej@radishtech.solutions](mailto:matej@radishtech.solutions)
 
@@ -52,18 +52,6 @@ Location independent developer assisting those in need of tech solutions by day 
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethers-colored.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
 </p>
-
-
-## Stats
-
-<a href="http://www.github.com/matejnavara"><img src="https://github-readme-stats.vercel.app/api?username=matejnavara&show_icons=true&hide=issues,contribs&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="matejnavara's GitHub stats" /></a>
-
-<a href="http://www.github.com/matejnavara"><img src="https://github-readme-streak-stats.herokuapp.com/?user=matejnavara&stroke=ffffff&background=1c1917&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/matejnavara"><img src="https://activity-graph.herokuapp.com/graph?username=matejnavara&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/matejnavara" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matejnavara&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 
 ## Socials
 
